@@ -1,4 +1,4 @@
-FROM jboss-eap-6/eap64-openshift
+FROM eap64-openshift:latest
 #FROM jboss-eap70-openshift:1.7
 
 EXPOSE 8080 8888
